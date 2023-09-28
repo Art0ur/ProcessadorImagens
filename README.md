@@ -1,14 +1,14 @@
-# ProcessadorImagens
- Primeiro Trabalho Bimestral
+Para formatar o texto no GitHub, você pode usar a sintaxe do Markdown. Aqui está como você pode formatar o texto que você forneceu:
 
-# Implemente uma ferramenta que possibilite um vector de Mat´s. Nessa ferramenta deve-se conter, ao menos:
+```markdown
+# Processador de Imagens
+## Primeiro Trabalho Bimestral
 
-- 1 método de conversão de cor
+Implemente uma ferramenta que possibilite um vetor de Mat´s. Nessa ferramenta deve-se conter, ao menos:
 
-- 1 método de filtro
-
-- 1 método de detector de borda
-
-- 1 método de binarização
-
-- 1 método de morfologia matemática
+- **Método de conversão de cor**
+- **Método de filtro**
+- **Método de detector de borda**
+- **Método de binarização**
+- **Método de morfologia matemática**
+```
